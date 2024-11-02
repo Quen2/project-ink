@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg_landingpage {
+    background-size: cover;
+}
+
+.modal {
+    width: 100vw;
+    height: 100vh;
+    z-index: 999;
+    background-color: rgba(53, 53, 53, 0.75);
+    position: fixed;
+}
+
+.modal div {
+    background: #282828;
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.modalpost {
+    width: 100vw;
+    height: 100vh;
+    z-index: 999;
+    background-color: rgba(53, 53, 53, 0.75);
+    position: fixed;
+}
+
+.modalpost div {
+    background: #282828;
+    width: 90%;
+    height: 90%;
+    margin: 0 auto;
+    border-radius: 15px;
+    padding: 10px;
+}
