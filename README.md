@@ -1,5 +1,3 @@
-Ce `README.md` donne une vue d'ensemble complète de votre projet INK, des instructions d'installation, et des technologies utilisées.
-
 # 🖋️ INK - Trouvez votre tatoueur partout en France
 
 **INK** est un site web conçu comme un réseau social qui permet de trouver un tatoueur en France de manière simple, rapide et efficace. Ce projet est développé avec **Next.js** pour la rapidité et l'efficacité du rendu côté serveur, Tailwind pour le design côté client et utilise **MongoDB** pour stocker les données des utilisateurs et des tatoueurs.
@@ -33,7 +31,7 @@ Le projet contient les principaux dossiers suivants :
 
 1. **Clonez le dépôt** :
    ```bash
-   git clone https://github.com/votre-utilisateur/ink.git
    cd /ink
    npm i
    npm run dev
+   ```
