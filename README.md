@@ -2,6 +2,8 @@
 
 **INK** est un site web conçu comme un réseau social qui permet de trouver un tatoueur en France de manière simple, rapide et efficace. Ce projet est développé avec **Next.js** pour la rapidité et l'efficacité du rendu côté serveur, Tailwind pour le design côté client et utilise **MongoDB** pour stocker les données des utilisateurs et des tatoueurs.
 
+![preview-ink-projet](./ink/public/assets/screen-ink.png "preview project ink")
+
 ## 🖥️ Aperçu du projet
 
 INK aide les utilisateurs à :
